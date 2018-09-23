@@ -1,0 +1,13 @@
+package P128;
+
+public class Mainz {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
